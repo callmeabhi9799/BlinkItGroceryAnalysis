@@ -33,7 +33,7 @@ The goal was to:
 - **Power BI Desktop** – For data modeling and interactive dashboard creation  
 - **Power Query Editor** – Used for data transformation and cleaning  
 - **DAX (Data Analysis Expressions)** – To create custom measures and KPIs  
-- **Excel/CSV Dataset** *(assumed)* – Imported as the primary data source
+- **Excel Dataset** – Imported as the primary data source
 
 ---
 
